@@ -119,5 +119,4 @@ require (
 )
 
 replace github.com/DataDog/dd-trace-go/v2 v2.8.2 => /Users/tony.redondo/repos/github/Datadog/dd-trace-go
-
 // replace github.com/datadog/orchestrion v1.10.0 => /Users/tony.redondo/repos/github/Datadog/orchestrion
