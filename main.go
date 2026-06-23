@@ -19,3 +19,6 @@ func main() {
 		fmt.Println("i =", 100/i)
 	}
 }
+
+func dummyFunc() {
+}
