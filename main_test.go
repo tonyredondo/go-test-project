@@ -62,6 +62,7 @@ func TestDataDog_Parallelism(t *testing.T) {
 					// Simulate some work
 					_ = i
 					dummyFunc()
+
 					// span := mTracer.StartSpan("normal_span:" + tc.text)
 					// defer span.Finish()
 				})
